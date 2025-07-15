@@ -1,0 +1,2 @@
+The dynamic range of the image should have at least 50% of intensity variation in the facial region of the image.
+The facial region is defined as the region from crown to chin and from the left ear to the right ear.

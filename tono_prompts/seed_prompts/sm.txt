@@ -1,0 +1,2 @@
+The facial expression is natural, does not reveal any particular emotions, and does not alter the facial structure
+The subject's expression reflects an emotion and alters the geometry of the face, mouth, or eyes

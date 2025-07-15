@@ -1,0 +1,5 @@
+Digital cameras used to capture portraits shall produce images where the vertical and horizontal pixel density is the same.
+Live captured portraits of a subject
+- Shall be captured in one of the following formats: PNG, JPEG, JPEG2000, RAW formats supported by the camera, lossless formats should be preferred;
+- Should be captured at a minimum dimension of 1200 pixels width x 1600 pixels height (cropped image);
+- Shall be captured in colour.

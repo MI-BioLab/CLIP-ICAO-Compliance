@@ -1,0 +1,7 @@
+All images shall have sufficient focus and depth of field to maintain the required level of details.
+The camera shall be capable of accurately rendering fine contrasted facial details, such as wrinkles and moles, as small as 1 mm in diameter on the face.
+The focus and depth of field of the camera shall be set so that the subject’s captured image is in focus from nose to ears.
+In most cases, a depth of field of 15 cm will be sufficient.
+The background behind the subject may be out of focus.
+Proper focus and depth-of-field will be assured by either using the camera auto focus function with manual aperture settings or
+by pre-focusing the lens at the distance of the subject's eyes and by selecting an appropriate aperture (F-stop) to ensure a depth-of-field of the distance from a subject's nose to ears.

@@ -1,0 +1,2 @@
+The background is uniform, with no irregularities, even small ones. It may have a slight color gradient in one direction.
+The background is not uniform and shows irregularities, streaks, or a complex background with various objects present

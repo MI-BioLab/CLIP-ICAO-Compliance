@@ -1,0 +1,7 @@
+All images should be captured in colour. Newly designed enrolment should capture colour images only.
+The captured portrait shall be a true-colour representation of the holder in a typical colour space such as sRGB as specified in IEC 61966-2.
+Other true-colour representations may be used as long as the colour profile is embedded in the image.
+Unnaturally coloured lighting, i.e., yellow, red, etc., shall not be used.
+The lighting shall produce a face image with naturally looking flesh tones when viewed in typical examination environments.
+Colour calibration using an 18% grey background or other method such as white balancing should be applied.
+White balance shall be properly set in order to achieve high fidelity skin tones.

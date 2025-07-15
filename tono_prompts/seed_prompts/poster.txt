@@ -1,0 +1,2 @@
+The image is characterized by a good distribution of colors, with no visible discretization effects
+The image shows a posterization effect, with a noticeable discretization of colors

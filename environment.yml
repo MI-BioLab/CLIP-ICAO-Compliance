@@ -1,0 +1,26 @@
+name: CLIP-ICAO-Compliance
+channels:
+  - nodefaults
+  - nvidia
+  - thombashi
+  - conda-forge
+dependencies:
+  - python<3.13
+  - pip
+  - ocl-icd-system
+  - cuda-toolkit<12.5
+  - cuda-version<12.5
+  - pip:
+    - --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cu124
+    - numpy<2.0
+    - opencv-python
+    - tqdm
+    - joblib
+    - torch<2.6
+    - torchvision
+    - torchmetrics
+    - transformers
+    - piq
+    - pandas
+    - opencv-python
+    - llama-cpp-python

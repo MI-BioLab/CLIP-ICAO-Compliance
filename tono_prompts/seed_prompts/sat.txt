@@ -1,0 +1,2 @@
+The colors in the image are natural, neither too saturated nor too flat
+The colors in the image are unnatural, either too saturated or too faded

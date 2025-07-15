@@ -1,0 +1,5 @@
+The background surface behind the subject shall be plain, and shall have no texture containing spots, lines or curves that will be visible in the captured image.
+The background shall have a uniform colour.
+There may be gradual changes from light to dark luminosity in a single direction, although this may make it more difficult to remove the background during the document production process.
+A typical background for the scene is grey with a plain, dull flat surface.
+Plain light coloured backgrounds such as light blue or white may be used as long as there is sufficient distinction between the face/hair area and the background.

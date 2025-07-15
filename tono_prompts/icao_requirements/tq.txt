@@ -1,0 +1,10 @@
+The subject should be instructed to look directly at the camera and to keep his or her head erect.
+Typically people are able to adopt such a position if instructed.
+Care should be taken to maintain the full frontal pose as well as possible.
+The shoulders shall be square on to the camera, parallel to the camera imaging plane.
+Portrait style photographs where the subject is looking over the shoulder shall not be used.
+The pitch of the head shall be less than ± 5° from frontal.
+The yaw of the head shall be less than ± 5° from frontal.
+The roll of the head shall be less than ± 8°, it is recommended to keep it below ± 5°.
+Any stronger pose deviation may have negative impact on facial recognition error rates.
+Therefore, effort should be spent to ensure that all angles are as small as possible.

@@ -1,0 +1,2 @@
+The head pose is frontal without rotations in terms of roll, pitch and yaw
+The head is rotated, causing the facial features to appear asymmetric in at least one direction
